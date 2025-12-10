@@ -1,0 +1,18 @@
+header,
+nav,
+main,
+article,
+section,
+aside,
+footer {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  min-height: 60vh;
+}
+
+aside {
+  background: rgba(0, 0, 0, 0.04);
+}
