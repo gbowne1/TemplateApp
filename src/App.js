@@ -323,6 +323,7 @@ export default function App() {
   return (
     <ThemeModeContext.Provider value={{ mode, toggle }}>
       <ThemeProvider theme={theme}>
+        <CssBaseline />
         <BrowserRouter>
           <Layout />
         </BrowserRouter>
