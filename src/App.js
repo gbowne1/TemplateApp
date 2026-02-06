@@ -24,6 +24,7 @@ import {
   Typography,
   Toolbar,
   IconButton,
+  CssBaseline
 } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 import "./App.css";
